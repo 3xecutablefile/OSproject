@@ -1,0 +1,1 @@
+bspwm sxhkd polybar rofi alacritty picom feh neofetch git curl wget fonts-firacode fonts-noto-color-emoji
